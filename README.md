@@ -87,4 +87,8 @@ So now that we have looked that bike traffic, we wanted to see if the number of 
    
    We can clearly see that parisians are choosing to ride a bicycle instead of using public transports, especially in this year. Wether it is related to COVID or simply to a change of lifestyle, bike traffic has been increasing steadily and, at this current rate, next year might show even higher numbers.
    With bike traffic might come an increase in bike accidents as well, which is why the construction the bike lanes and sinalization is important to keep up with this new trend.
- 
+   
+   ## Acknowledgements
+   
+   I would like to thank the contribution of [Etienne Leconte](https://github.com/EtienneLeconte) in this project, especially in the visualizations done in Tableau.
+   I also want to thank my teacher [Eldiias](https://github.com/Eldiias) for his valuable insights and feedback during the course of this project.
